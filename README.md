@@ -21,3 +21,6 @@ Backtrack from the position of the maximum value in dp to get the longest common
 Complexity
 Time Complexity: O(m * n), where m is the length of string X and n is the length of string Y.
 Space Complexity: O(m * n), for the 2D array dp.
+
+# project video #
+https://www.youtube.com/watch?v=BzyOlUEdQKA
